@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackie~G</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Hackie~G</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bonfaceg303@gmail.com (Bonnie Gitonga)</managingEditor>
+    <webMaster>bonfaceg303@gmail.com (Bonnie Gitonga)</webMaster>
+    <copyright>© 2025 Bonnie Gitonga</copyright>
+    <lastBuildDate>Sun, 15 Jun 2025 21:20:04 +0300</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First_post</title>
+      <link>//localhost:1313/posts/helo/</link>
+      <pubDate>Sun, 15 Jun 2025 21:20:04 +0300</pubDate>
+      <author>bonfaceg303@gmail.com (Bonnie Gitonga)</author>
+      <guid>//localhost:1313/posts/helo/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
