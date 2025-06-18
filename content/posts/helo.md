@@ -10,7 +10,7 @@ tags:
   - post
   - lorem
   - ipsum
-date: 2025-06-18T20:34:00.000Z
+date: 2025-06-17T23:34:00.000Z
 draft: false
 ---
 
