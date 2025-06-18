@@ -18,7 +18,7 @@ draft: false
 
 Volnaya Forums
 
-"The Volnaya Forums stand as a sprawling network where citizens compete to outdo each other in public displays of loyalty. Every post and reply is carefully monitored, and the most zealous praise is rewarded with higher loyalty scores. Behind the scenes, a small cadre of administrators wields absolute control, silencing dissent and shaping the narrative to serve the regime’s ambitions. Task Force Phoenix has identified the forum’s admin account as a critical target. Gaining access would allow the task force to disrupt the flow of propaganda and strike a blow against the regime’s information control. Recently, we managed to secure a backup copy of the forum server from an unsecured FTP server. Can you analyze the platform’s architecture and code to uncover any weaknesses that might grant us access to the admin account?"
+"The Volnaya Forumxss stand as a sprawling network where citizens compete to outdo each other in public displays of loyalty. Every post and reply is carefully monitored, and the most zealous praise is rewarded with higher loyalty scores. Behind the scenes, a small cadre of administrators wields absolute control, silencing dissent and shaping the narrative to serve the regime’s ambitions. Task Force Phoenix has identified the forum’s admin account as a critical target. Gaining access would allow the task force to disrupt the flow of propaganda and strike a blow against the regime’s information control. Recently, we managed to secure a backup copy of the forum server from an unsecured FTP server. Can you analyze the platform’s architecture and code to uncover any weaknesses that might grant us access to the admin account?"
 
 
 ### Remote code execution
