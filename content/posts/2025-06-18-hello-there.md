@@ -1,6 +1,17 @@
 ---
 title: Hello there
-date: 2025-06-18T19:54:00.000Z
+date: 2025-06-18T20:16:00.000Z
 description: YOOOOO
+summary: If you want to include featured_image, series, or author, let me know
+  and I can extend the config.
+categories:
+  - Testing
+tags:
+  - Testing
+draft: false
 ---
-testing 123
+### Extra: Optional enhancements
+
+Let me know if you're also customizing the post layout or want to auto-fill tags/categories!
+
+`hello world`
