@@ -1,8 +1,12 @@
-+++
-date = '2025-06-15T21:20:04+03:00'
-draft = false
-title = 'First_post'
-+++
+---
+title: "Super cool article that I wrote"
+summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
+categories: ["Post"]
+tags: ["Blog", "post", "lorem", "ipsum"]
+date: 2022-09-04
+draft: false
+---
+
 
 
 Volnaya Forums
