@@ -1,9 +1,16 @@
 ---
-title: "Super cool article that I wrote"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
-categories: ["Post"]
-tags: ["Blog", "post", "lorem", "ipsum"]
-date: 2022-09-04
+title: Super cool article that I wrote
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in
+  eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed
+  placerat ac, interdum id urna.
+categories:
+  - Post
+tags:
+  - Blog
+  - post
+  - lorem
+  - ipsum
+date: 2025-06-18T20:34:00.000Z
 draft: false
 ---
 
