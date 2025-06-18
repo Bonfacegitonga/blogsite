@@ -2,14 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Testing on Hackie~G</title>
-    <link>//localhost:1313/tags/testing/</link>
+    <link>http://localhost:1313/tags/testing/</link>
     <description>Recent content in Testing on Hackie~G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bonfaceg303@gmail.com (Bonnie Gitonga)</managingEditor>
     <webMaster>bonfaceg303@gmail.com (Bonnie Gitonga)</webMaster>
     <copyright>© 2025 Bonnie Gitonga</copyright>
-    <atom:link href="//localhost:1313/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 May 2025 23:24:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello there</title>
+      <link>http://localhost:1313/posts/2025-06-18-hello-there/</link>
+      <pubDate>Fri, 16 May 2025 23:24:00 +0000</pubDate>
+      <author>bonfaceg303@gmail.com (Bonnie Gitonga)</author>
+      <guid>http://localhost:1313/posts/2025-06-18-hello-there/</guid>
+      <description>If you want to include featured_image, series, or author, let me know and I can extend the config.</description>
+      
+    </item>
     
   </channel>
 </rss>

@@ -9,15 +9,15 @@
     <managingEditor>bonfaceg303@gmail.com (Bonnie Gitonga)</managingEditor>
     <webMaster>bonfaceg303@gmail.com (Bonnie Gitonga)</webMaster>
     <copyright>© 2025 Bonnie Gitonga</copyright>
-    <lastBuildDate>Wed, 18 Jun 2025 20:16:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jun 2025 20:34:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Super cool article that I wrote</title>
-      <link>http://localhost:1313/posts/helo/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Hello there</title>
+      <link>http://localhost:1313/posts/2025-06-18-hello-there/</link>
+      <pubDate>Fri, 16 May 2025 23:24:00 +0000</pubDate>
       <author>bonfaceg303@gmail.com (Bonnie Gitonga)</author>
-      <guid>http://localhost:1313/posts/helo/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
+      <guid>http://localhost:1313/posts/2025-06-18-hello-there/</guid>
+      <description>If you want to include featured_image, series, or author, let me know and I can extend the config.</description>
       
     </item>
     
