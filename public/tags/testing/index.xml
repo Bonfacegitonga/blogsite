@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Hackie~G</title>
-    <link>http://localhost:1313/series/</link>
-    <description>Recent content in Series on Hackie~G</description>
+    <title>Testing on Hackie~G</title>
+    <link>//localhost:1313/tags/testing/</link>
+    <description>Recent content in Testing on Hackie~G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bonfaceg303@gmail.com (Bonnie Gitonga)</managingEditor>
     <webMaster>bonfaceg303@gmail.com (Bonnie Gitonga)</webMaster>
     <copyright>© 2025 Bonnie Gitonga</copyright>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
