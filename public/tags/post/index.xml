@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on Hackie~G</title>
-    <link>http://localhost:1313/tags/post/</link>
+    <link>//localhost:1313/tags/post/</link>
     <description>Recent content in Post on Hackie~G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>bonfaceg303@gmail.com (Bonnie Gitonga)</managingEditor>
     <webMaster>bonfaceg303@gmail.com (Bonnie Gitonga)</webMaster>
     <copyright>© 2025 Bonnie Gitonga</copyright>
-    <lastBuildDate>Tue, 17 Jun 2025 21:47:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jun 2025 21:47:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Super cool article that I wrote(duplicate)</title>
-      <link>http://localhost:1313/posts/2025-06-18-super-cool-article-that-i-wrote-duplicate/</link>
+      <link>//localhost:1313/posts/2025-06-18-super-cool-article-that-i-wrote-duplicate/</link>
       <pubDate>Tue, 17 Jun 2025 21:47:00 +0000</pubDate>
       <author>bonfaceg303@gmail.com (Bonnie Gitonga)</author>
-      <guid>http://localhost:1313/posts/2025-06-18-super-cool-article-that-i-wrote-duplicate/</guid>
+      <guid>//localhost:1313/posts/2025-06-18-super-cool-article-that-i-wrote-duplicate/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
       
     </item>
     
     <item>
       <title>Super cool article that I wrote</title>
-      <link>http://localhost:1313/posts/helo/</link>
+      <link>//localhost:1313/posts/helo/</link>
       <pubDate>Mon, 16 Jun 2025 23:34:00 +0000</pubDate>
       <author>bonfaceg303@gmail.com (Bonnie Gitonga)</author>
-      <guid>http://localhost:1313/posts/helo/</guid>
+      <guid>//localhost:1313/posts/helo/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
       
     </item>
