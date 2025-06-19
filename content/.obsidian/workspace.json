@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "36930991c661589f",
+        "id": "846d4f463d026296",
         "type": "tabs",
         "children": [
           {
-            "id": "80116cf70adb7c23",
+            "id": "6ef902b8087afa95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/post_one.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "post_one"
+              "title": "New tab"
             }
           }
         ]
@@ -73,8 +69,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "67b3c0cb5193b3fa",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 621.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,9 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80116cf70adb7c23",
+  "active": "67b3c0cb5193b3fa",
   "lastOpenFiles": [
     "posts/post_one.md",
+    "posts/Untitled.md",
+    "posts/Untitled 1.md",
+    "2025-06-19.md",
+    "Tags",
     "posts",
     "Welcome.md"
   ]
