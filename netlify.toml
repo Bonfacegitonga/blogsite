@@ -1,13 +1,13 @@
 # netlify.toml
 
 [build]
-  command = "hugo mod get -u && hugo --gc --minify -b $URL"
+  command = "hugo mod get -u && hugo --gc --minify"
   publish = "public"
 
 [build.environment]
   NODE_ENV = "production"
   GO_VERSION = "1.16"
-#   TZ = "GMT+3"  # Set to preferred timezone
+  TZ = "GMT+3"  # Set to preferred timezone
 
 [context.production.environment]
   HUGO_VERSION = "0.104.1"
