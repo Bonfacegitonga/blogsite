@@ -1,0 +1,15 @@
+content/.makemd/
+content/.obsidian/
+content/.space/
+content/.trash/
+content/posts/.md
+content/posts/posts.md
+content/Templates/
+content/Tags/
+
+# ------------- Hugo Static Site -------------
+public/         # Hugo output folder
+resources/_gen/ # Hugo generated assets
+.hugo_build.lock
+
+
