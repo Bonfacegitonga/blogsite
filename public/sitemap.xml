@@ -4,13 +4,7 @@
 
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/templates/</loc>
-    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,6 +32,11 @@
   </url>
   <url>
     <loc>//localhost:1313/templates/templates/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/templates/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
